@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcra_react=self.webpackChunkcra_react||[]).push([[815],{657:function(e,n,r){r.r(n),r.d(n,{default:function(){return a}});r(791),r(95);var c=r(184);function a(e){return(0,c.jsx)(c.Fragment,{children:(0,c.jsx)("div",{className:"header",children:(0,c.jsx)("h1",{children:"BACAK"})})})}},95:function(){}}]);
+//# sourceMappingURL=Cuki.d5d1088b.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcra_react=self.webpackChunkcra_react||[]).push([[268],{401:function(n,r,e){e.r(r),e.d(r,{default:function(){return t}});var c=e(48).v9,a=(e(791),e(95),e(184));function t(n){var r=c((function(n){return n.global.mq}));return(0,a.jsx)(a.Fragment,{children:(0,a.jsx)("div",{className:r+" header",children:(0,a.jsx)("h1",{children:"QWEMNB"})})})}},95:function(){}}]);
+//# sourceMappingURL=Home.07576f68.chunk.js.map
