@@ -1,4 +1,4 @@
-# Creating a letter game in pixi.js at TS_OOP
+# Creating a letter game in pixi.js at typescript_OOP
 
 ## how to run
 
